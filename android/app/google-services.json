@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "377330217096",
+    "project_id": "dumy-39802",
+    "storage_bucket": "dumy-39802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377330217096:android:dccde45b15656ebfc72f3d",
+        "android_client_info": {
+          "package_name": "com.aayush.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377330217096-lgbqdav3u6nc42cuahg27kps9fotsiv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBepxjY9Qcv_2XonqVxU9wE-2_GmwlzAvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377330217096-lgbqdav3u6nc42cuahg27kps9fotsiv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
